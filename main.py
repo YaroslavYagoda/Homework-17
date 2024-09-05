@@ -24,8 +24,8 @@ def emptyfunc():
 
 
 def chet(n):
-    for i in range(0, n + 1, 2):
-        yield i
+    for i1 in range(0, n + 1, 2):
+        yield i1
 
 
 def test_max_in_two():
